@@ -1,0 +1,9 @@
+{
+  "mongo" : {
+    "host" : "mongodb://localhost:27017/demo-with-hook",
+    "options" : {
+      "useNewUrlParser": true,
+      "useUnifiedTopology": true
+    }
+  }
+}
